@@ -23,6 +23,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Gustave_Aimard
     - http://en.wikipedia.org/wiki/Gustave_Aimard
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43960#Les-Forestiers-du-Michigan
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2013-10-15'
 gutenberg_type: Text
